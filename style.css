@@ -287,8 +287,7 @@
 .scroll_img1 img{
     width: 100%;
         border-radius: 30px;
-    border: 1px solid
-    
+    border: 1px solid;
 }
 
 
@@ -336,8 +335,6 @@
     min-width: 146px;
     max-width: 146px;
     list-style: none;
-    w
-    
 }
 .app_2{
     flex-direction: column;
@@ -907,4 +904,29 @@
     width: 16px;
     height: 16px;
 }
-
+.united{
+    display: grid;
+    column-gap: 7px;
+    row-gap: 12px;
+    grid-template-columns: auto auto 1fr;
+    margin: 0px 0px 40px 0px;
+    padding: 0px 20px;
+}
+.united_1{
+    inset: 0px;
+    background-color: #00000000;
+    border-radius: 12px;
+    z-index: 1;
+}
+.united_1 img{
+    width: 14px;
+    height: 14px;
+}
+.united_text{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    color: #8d969e;
+}
