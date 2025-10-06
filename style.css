@@ -913,10 +913,14 @@
     padding: 0px 20px;
 }
 .united_1{
+    /* position: absolute; */
     inset: 0px;
     background-color: #00000000;
     border-radius: 12px;
-    z-index: 1;
+    /* z-index: 1; */
+}
+.united_1_1{
+    width: 100%;
 }
 .united_1 img{
     width: 14px;
@@ -930,3 +934,174 @@
     letter-spacing: 0.18px;
     color: #8d969e;
 }
+.united_list{
+    flex-wrap: wrap;
+    grid-area: 2 / 1 / auto / span 3;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    row-gap: 7px;
+    /* padding: 0px 20px; */
+}
+.terms{
+    margin: 0px 24px 0px 0px;
+    padding: 0px;
+}
+.legal{
+    margin: 0px 24px 0px 0px;
+    padding: 0px;
+}
+.complaints{
+    margin: 0px 24px 0px 0px;
+    padding: 0px;
+}
+.privacy{
+    margin: 0px 24px 0px 0px;
+    padding: 0px;
+}
+.uk{
+    margin: 0px 24px 0px 0px;
+    padding: 0px;
+}
+.vulner{
+    margin: 0px 24px 0px 0px;
+    padding: 0px;
+}
+.candidates{
+    margin: 0px 24px 0px 0px;
+    padding: 0px;
+}
+.terms span{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #8d969e;
+    min-width: 0px;
+}
+.legal span{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #8d969e;
+    min-width: 0px;
+}
+.complaints span{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #8d969e;
+    min-width: 0px;
+}
+.privacy span{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #8d969e;
+    min-width: 0px;
+}
+.uk span{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #8d969e;
+    min-width: 0px;
+}
+.vulner span{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #8d969e;
+    min-width: 0px;
+}
+.candidates span{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #8d969e;
+    min-width: 0px;
+}
+.ltd{
+    color: #8d969e;
+    margin: 0px 0px 40px;
+    padding: 0px 20px;
+}
+.ltd_text{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    color: #8d969e;
+}
+.link{
+    color: #8d969e;
+    text-decoration: underline;
+}
+.footer_last{
+    color: #8d969e;
+    padding: 0px 20px;
+    margin: 0px 0px 40px;
+    width: 100%;
+    max-width: 1000px;
+    font-family: "font1";
+}
+.footer_last_1{
+    font-family: "font1";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    text-align: start;
+    margin: 0px;
+    padding: 0px;
+}
+.international{
+    color: #8d969e;
+    text-decoration: underline;
+}
+.converter{
+    color: #8d969e;
+    text-decoration: underline;
+}
+.gbp{
+    color: #8d969e;
+    text-decoration: underline;
+}
+.revolt{
+    color: #8d969e;
+    text-decoration: underline;
+}
+
+
+
+
+
